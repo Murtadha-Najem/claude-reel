@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Never commit credentials or downloaded posts
+cookies.txt
+*cookies*.txt
+gemini_keys.txt
+.env
+reel-data/
+data/
+records/
+*.mp4
+*.pth
