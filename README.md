@@ -45,7 +45,7 @@ If you want any site, local Whisper, or no API key at all, use claude-video. If 
 Requirements: Python 3.10 or later, and `ffmpeg` and `ffprobe` on PATH.
 
 ```bash
-git clone https://github.com/murtadha203/claude-reel ~/.claude/skills/reel
+git clone https://github.com/Murtadha-Najem/claude-reel ~/.claude/skills/reel
 ```
 
 ```bash
